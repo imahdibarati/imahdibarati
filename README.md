@@ -1,20 +1,8 @@
 ## Hi there 👋
 
 **imahdibarati/imahdibarati**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imahdibarati&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imahdibarati&layout=compact&theme=radical&hide_border=true)
-
-> "کد زدن مثل آشپزیه: مواد خوب، دستورالعمل درست، و کمی خلاقیت!" – من 😎
 
 - A software developer with over three years of professional experience in backend development and infrastructure, specializing in Laravel, server management, Docker implementation, and the design of scalable APIs. I also have extensive experience working with Vue.js and optimizing databases. My goal is to build stable, maintainable, and reliable systems that deliver optimal and efficient performance at scale.
-
-### 🌟 Featured Projects
-- **[Project 1: Scalable E-Commerce API](https://github.com/imahdibarati/project1)**  
-  A Laravel-based API with Docker deployment, RabbitMQ for queues, and Elasticsearch for search. (⭐ ۵۰+)
-- **[Project 2: Real-time Dashboard](https://github.com/imahdibarati/project2)**  
-  Vue.js + Nuxt app with Livewire and Socket.io for live updates, integrated with PostgreSQL. (⭐ ۳۰+)
-- **[Project 3: DevOps Automation Scripts](https://github.com/imahdibarati/project3)**  
-  Ansible playbooks for Ubuntu servers, Nginx config, and CI/CD pipelines. (⭐ ۲۰+)
 
 ### 🛠️ Skills
 
@@ -62,12 +50,8 @@
 - Open-source contributions to DevOps tools
 
 ### 📫 Connect with Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [imhdibrati@gmail.com](mailto:imhdibrati@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/imahdibarati](https://linkedin.com/in/imahdibarati)
-- 🐦 Twitter/X: [@imahdibarati](https://twitter.com/imahdibarati)
+- 🚀 Telegram: [@imahdibarati](https://twitter.com/imahdibarati)
 - 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-
 ---
-
-⭐️ **From [imahdibarati](https://github.com/imahdibarati)**  
-![Snake animation](https://github.com/imahdibarati/imahdibarati/blob/output/github-contribution-grid-snake-dark.svg) <!-- اختیاری: انیمیشن snake برای contributions -->
